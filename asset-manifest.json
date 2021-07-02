@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/erdldncr/react-who-wants-500k/static/css/main.57b916a4.chunk.css",
+    "main.js": "/erdldncr/react-who-wants-500k/static/js/main.55624532.chunk.js",
+    "main.js.map": "/erdldncr/react-who-wants-500k/static/js/main.55624532.chunk.js.map",
+    "runtime-main.js": "/erdldncr/react-who-wants-500k/static/js/runtime-main.486dd8e3.js",
+    "runtime-main.js.map": "/erdldncr/react-who-wants-500k/static/js/runtime-main.486dd8e3.js.map",
+    "static/js/2.de6b8bfe.chunk.js": "/erdldncr/react-who-wants-500k/static/js/2.de6b8bfe.chunk.js",
+    "static/js/2.de6b8bfe.chunk.js.map": "/erdldncr/react-who-wants-500k/static/js/2.de6b8bfe.chunk.js.map",
+    "static/js/3.ecfa0199.chunk.js": "/erdldncr/react-who-wants-500k/static/js/3.ecfa0199.chunk.js",
+    "static/js/3.ecfa0199.chunk.js.map": "/erdldncr/react-who-wants-500k/static/js/3.ecfa0199.chunk.js.map",
+    "index.html": "/erdldncr/react-who-wants-500k/index.html",
+    "static/css/main.57b916a4.chunk.css.map": "/erdldncr/react-who-wants-500k/static/css/main.57b916a4.chunk.css.map",
+    "static/js/2.de6b8bfe.chunk.js.LICENSE.txt": "/erdldncr/react-who-wants-500k/static/js/2.de6b8bfe.chunk.js.LICENSE.txt",
+    "static/js/3.ecfa0199.chunk.js.LICENSE.txt": "/erdldncr/react-who-wants-500k/static/js/3.ecfa0199.chunk.js.LICENSE.txt",
+    "static/media/correct.160572d7.wav": "/erdldncr/react-who-wants-500k/static/media/correct.160572d7.wav",
+    "static/media/play.8e5f6d1d.wav": "/erdldncr/react-who-wants-500k/static/media/play.8e5f6d1d.wav",
+    "static/media/wrong.e9468218.wav": "/erdldncr/react-who-wants-500k/static/media/wrong.e9468218.wav"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.486dd8e3.js",
+    "static/js/2.de6b8bfe.chunk.js",
+    "static/css/main.57b916a4.chunk.css",
+    "static/js/main.55624532.chunk.js"
+  ]
+}
